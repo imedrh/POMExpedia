@@ -1,0 +1,4 @@
+TestCases\TestPages.class
+pages\ResultSearchPage.class
+pages\AssistancePage.class
+pages\HomePage.class
